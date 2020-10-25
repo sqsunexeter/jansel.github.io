@@ -10,12 +10,13 @@ title: Curriculum Vitae
 
 M.Eng of Information Security, Computer Science, China University of Geosciences.
 Thesis title: CNN-based Image Universal Steganalysis Research in Spatial Domain.
-GPA: 3.7/4.0 Ranked in the top 5% in the department(95 students)
+GPA: 3.7/4.0 Ranked in the top 5% in the department (95 students)
 
 
 ## 2013 – 2017 
 
 B.Eng of Information Security, Computer Science, Huaibei Normal University.
+
 GPA: 3.2/4.0 
 
 # Miscellaneous Experience
