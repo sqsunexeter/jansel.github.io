@@ -11,7 +11,7 @@ pubs:
     url: "https://ieeexplore.ieee.org/abstract/document/8628929"
 
     <!--
-  - author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
+    author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
     title: "Tight Prediction Intervals Using Expanded Interval Minimization"
     month: "June"
     year: "2018"
