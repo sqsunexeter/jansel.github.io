@@ -9,19 +9,21 @@ pubs:
     year: "2019"
     booktitle: "Whitepaper"
     url: "https://medium.com/celohq/bftree-scaling-hotstuff-to-millions-of-validators-7d6930ee046a"
-<!--
+
   - author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
     title: "Tight Prediction Intervals Using Expanded Interval Minimization"
     month: "June"
     year: "2018"
     booktitle: "Technical Report"
     url: "https://arxiv.org/abs/1806.11222"
+    
   - author: "Jason Ansel, Han Hong, Jessie Li"
     title: "OLS and 2SLS in Randomized and Conditionally Randomized Experiments"
     month: "March"
     year: "2018"
     booktitle: "Journal of Economics and Statistics"
     url: "https://doi.org/10.1515/jbnst-2018-0016"
+    
   - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
     title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
     keywords: "Locu"
@@ -31,7 +33,7 @@ pubs:
     booktitle: "International Conference on Very Large Data Bases"
     url: 2015vldb-argonaut.pdf
     bibtex: 2015vldb-argonaut.bib
--->
+
   - key: "ding:pldi:2015"
     author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
     title: "Autotuning Algorithmic Choice for Input Sensitivity"
