@@ -10,6 +10,7 @@ pubs:
     booktitle: "IEEE Symposium Series on Computational Intelligence (SSCI)"
     url: "https://ieeexplore.ieee.org/abstract/document/8628929"
 
+  <!--
   - author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
     title: "Tight Prediction Intervals Using Expanded Interval Minimization"
     month: "June"
@@ -287,7 +288,7 @@ pubs:
     type: "Talk"
     month: "April"
     year: "2011"
-
+-->
 
 ---
 
