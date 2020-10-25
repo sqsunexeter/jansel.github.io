@@ -33,8 +33,8 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
+  - title: Curriculum Vitae
+    url: /Curriculum Vitae/
   - title: Publications
     url: /publications/
   - title: Hobbies
