@@ -45,9 +45,9 @@ Higher Education under the Ministry of Education
 
 <br />
 ## Activities
-# 2015  
+## 2015  
 Participated in Information Literacy Summer Camp held by University of Science and Technology of China on behalf of the school.
-# 2018
+## 2018
 Attended Academic Information Exchange in UCLA and social research in California
 
 <br />
