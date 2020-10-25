@@ -17,7 +17,8 @@ pubs:
     year: "2018"
     booktitle: "Technical Report"
     url: "https://arxiv.org/abs/1806.11222"
-    
+ -->
+ 
   - author: "Jason Ansel, Han Hong, Jessie Li"
     title: "OLS and 2SLS in Randomized and Conditionally Randomized Experiments"
     month: "March"
@@ -288,7 +289,7 @@ pubs:
     type: "Talk"
     month: "April"
     year: "2011"
--->
+
 ---
 
 # Publications
