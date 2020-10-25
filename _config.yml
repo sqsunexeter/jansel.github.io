@@ -2,11 +2,11 @@ title: Siqi Sun
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: https://jasonansel.com
+url: #https://jasonansel.com
 
 # Owner/author information
 owner:
-  name:           Jason Ansel
+  name:           Siqi Sun
   avatar:         jasonansel.jpg
 #  bio:
   email:          jasonansel@jasonansel.com
