@@ -4,69 +4,42 @@ permalink: /Curriculum Vitae/index.html
 title: Curriculum Vitae
 ---
 
-# Work Projects
+# Education
 
-## GoDaddy Domain Appraisals
+## 2017 – 2020
 
-While at GoDaddy, I created a system that uses neural networks to predict the
-resale price of a domain name in the aftermarket.  GoDaddy Domain Appraisals
-(GoValue) is available to millions of GoDaddy customers and provides estimated
-values to help both buyers and sellers more effectively price domain names.
-GoValue is 1.25x better at predicting past domain name sale prices than
-human experts.  You can [try it yourself], [learn how it works], or listen
-to me [talk about it on a podcast].
-
-[try it yourself]: https://www.godaddy.com/domain-value-appraisal
-[learn how it works]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
-[talk about it on a podcast]: https://blogs.nvidia.com/blog/2018/03/08/ai-podcast-godaddy-ai-to-domains/
-[research paper]: https://arxiv.org/abs/1806.11222
-
-## Google Native Client
-
-While interning at Google in 2010, I added support for sandboxing
-self-modifying code to Native Client (part of Google Chrome) to support
-dynamic language runtimes and JIT compilers. Native Client is a sandbox
-for running untrusted machine code in the web browser.  We
-[published this work in PLDI](http://groups.csail.mit.edu/commit/papers/2011/ansel-pldi11-nacljit.pdf).
-
-# Research Projects
-
-## [OpenTuner]
-
-[OpenTuner] is an open-source framework building domain-specific
-multi-objective program autotuners.  OpenTuner supports customizable
-configuration representations, an extensible technique representation
-to allow for domain-specific techniques, and an easy to use interface for
-communicating with the tuned program.  I was the primary author and original
-creator of this project.
-
-## [PetaBricks]
-[PetaBricks] is a language and compiler where algorithmic choices are
-exposed explicitly to create programs that define a search space of possible
-algorithms.  The PetaBricks compiler then uses empirical autotuning to search
-over these algorithms for an optimal version.  I was the primary author and
-original creator of this project.
+M.Eng of Information Security, Computer Science, China University of Geosciences.
+Thesis title: CNN-based Image Universal Steganalysis Research in Spatial Domain.
+GPA: 3.7/4.0 Ranked in the top 5% in the department(95 students)
 
 
-## [Kendo]
-[Kendo] is a library that allows multithreaded programs,
-that would normally produce non-deterministic output, to execute
-deterministically by enforcing a dynamically computed and efficient
-ordering of lock acquisitions.  The primary author of this work is
-[Marek Olszewski](https://www.linkedin.com/in/marekolszewski/).
+## 2013 – 2017 
+
+B.Eng of Information Security, Computer Science, Huaibei Normal University.
+GPA: 3.2/4.0 
+
+# Miscellaneous Experience
+
+## Awards and Achievements
+## 2014
+
+State-level Motivational Scholarships (3 out of 100 students). Awarded by Huaibei Normal
+University.
+
+## 2015
+
+School-level Individual Scholarships (5 out of 100 students). Awarded by Huaibei Normal
+University
+
+## 2017
+
+First-class Academic Scholarship. Awarded by China University of Geosciences
+
+## 2018
+Obtained a second prize in Scientific and Technological Paper Presentation for Graduate
+Students. Awarded by School of Computer Science, China University of Geosciences.
 
 
-## [DMTCP]
-[DMTCP][DMTCP] (Distributed Multi-Threaded Checkpointing) is a tool to
-transparently checkpoint and restart the state of a distributed cluster
-computation that communicates through MPI or sockets.  It works on unmodified
-binaries at the user level.  I was the first author on the original DMTCP
-paper and designed and implemented the distributed component that converted a
-single-process checkpointer into a distributed checkpointer. 
-I have moved on from this project, but it is continued by
-many wonderful researchers, and there are now [100+ refereed
-publications](http://dmtcp.sourceforge.net/publications.html) using or
-extending DMTCP.
 
 
 # Side Projects
