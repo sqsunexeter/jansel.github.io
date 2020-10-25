@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/index.html
+permalink: /Curriculum Vitae/index.html
 title: Curriculum Vitae
 ---
 
