@@ -5,7 +5,7 @@ title: Curriculum Vitae
 ---
 
 # Education
-
+<br />
 ## 2017 – 2020
 
 M.Eng of Information Security, Computer Science, China University of Geosciences.
@@ -19,50 +19,46 @@ B.Eng of Information Security, Computer Science, Huaibei Normal University.
 GPA: 3.2/4.0 
 
 # Miscellaneous Experience
-
+<br />
 ## Awards and Achievements
 ## 2014
-
 State-level Motivational Scholarships (3 out of 100 students). Awarded by Huaibei Normal
 University.
 
 ## 2015
-
 School-level Individual Scholarships (5 out of 100 students). Awarded by Huaibei Normal
 University
 
 ## 2017
-
 First-class Academic Scholarship. Awarded by China University of Geosciences
 
 ## 2018
 Obtained a second prize in Scientific and Technological Paper Presentation for Graduate
 Students. Awarded by School of Computer Science, China University of Geosciences.
 
+<br />
+## Certification
+## 2014
+Obtained a second prize in NECCS(National English Competition for College Students).
+Awarded by the National Administry Committee on Teaching English Language to Majors in
+Higher Education under the Ministry of Education
 
+<br />
+## Activities
+# 2015  
+Participated in Information Literacy Summer Camp held by University of Science and Technology of China on behalf of the school.
+# 2018
+Attended Academic Information Exchange in UCLA and social research in California
 
+<br />
+# Skills
 
-# Side Projects
+## Languages
+Strong reading, writing and speaking competencies for English, Mandarin Chinese.
 
-## Algorithmic Trading on LendingClub.com
+## Coding
+Python, Matlab, LaTeX.
 
-Since 2012 I've been doing algorithmic trading on the secondary market of
-the peer-to-peer lending platform [LendingClub]. I use neural networks to
-predict the likelihood of default of specific loans, and then both buy and sell
-notes based on those predictions. The latest version of this is not open
-source because there is a limited supply of notes available on the secondary
-market. In the first few years, this was very profitable; however, recently,
-other players have entered the market.  Good deals disappear within seconds,
-and overall yields and volumes have fallen. To be competitive, you increasingly
-need to focus on the speed of your algorithm.
-
-[LendingClub]: https://lendingclub.com/
-[GitHub Page]: https://github.com/jansel
-[ShowDB]: https://github.com/jansel/showdb
-[LendingClubChecker]: https://github.com/jansel/lendingclubchecker
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Kendo]: http://projects.csail.mit.edu/kendo/
-[DMTCP]: http://dmtcp.sourceforge.net/
-
+## Misc. 
+Master the concepts, principles and methods of information securitybe familiar with cryptography, including encryption algorithms, key protocols,etc.
 
