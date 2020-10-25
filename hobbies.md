@@ -32,15 +32,13 @@ to reproduce spicy dishes I like and with the help of many friends who have
 taught me dishes from their home countries. Recently I have been learning
 Thai dishes.  I am always up to learn how to to cook a exotic new dish.
 
-## Powerlifting
+## Fitness 
 
 <img src="/images/climb.jpg" class="floatpic">
-In my free time I do powerlifting to stay healthy.  While it has been many
-years since I competed, I still frequently train.
+Fitness has become an obsession with me in my free time, ensuring my healthy life. 
 
 ## Past Hobbies
 
-I previously enjoyed skiing, sailing, horseback riding, climbing, hiking,
-and developing/playing computer games. However, I have not had time to do
+I previously enjoyed climbing, hiking, and developing/playing computer games. However, I have not had time to do 
 any of these things recently.
 
