@@ -25,6 +25,6 @@ Fitness has become an obsession with me in my free time, ensuring my healthy lif
 
 ## Past Hobbies
 
-I previously enjoyed climbing, hiking, and developing/playing computer games. However, I have not had time to do 
+I previously enjoyed climbing, hiking, and playing computer games. However, I have not had time to do 
 any of these things recently.
 
