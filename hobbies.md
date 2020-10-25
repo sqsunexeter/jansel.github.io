@@ -22,9 +22,9 @@ building tables to explore the search space of roasting parameters.
 ## Cooking
 
 <div class="third">
-<img src="/images/food3.jpg">
-<img src="/images/food1.jpg">
-<img src="/images/food2.jpg">
+<img src="/images/cooking1.jpg">
+<img src="/images/cooking2.jpg">
+<img src="/images/cooking3.jpg">
 </div>
 
 I love extremely spicy food and cooking. I taught myself cooking by trying
