@@ -2,13 +2,13 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-pubs:
-  - author: "Jason Ansel, Marek Olszewski"
-    title: "BFTree - Scaling HotStuff to Millions of Validators"
+pubs: 
+  - author: "R. Liu, M. Xie and S. Sun"
+    title: "Reconstructing Positive Surveys from Negative Surveys by Improved Artificial Immune Network"
     month: "June"
-    year: "2019"
-    booktitle: "Whitepaper"
-    url: "https://medium.com/celohq/bftree-scaling-hotstuff-to-millions-of-validators-7d6930ee046a"
+    year: "2018"
+    booktitle: "IEEE Symposium Series on Computational Intelligence (SSCI)"
+    url: "https://ieeexplore.ieee.org/abstract/document/8628929"
 
   - author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
     title: "Tight Prediction Intervals Using Expanded Interval Minimization"
