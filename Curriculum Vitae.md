@@ -57,7 +57,7 @@ Attended Academic Information Exchange in UCLA and social research in California
 Strong reading, writing and speaking competencies for English, Mandarin Chinese.
 
 ## Coding
-Python, Matlab, LaTeX.
+Python, C Language, Matlab, LaTeX.
 
 ## Misc. 
 Master the concepts, principles and methods of information securitybe familiar with cryptography, including encryption algorithms, key protocols,etc.
