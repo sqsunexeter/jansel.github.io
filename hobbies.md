@@ -34,7 +34,7 @@ Thai dishes.  I am always up to learn how to to cook a exotic new dish.
 
 ## Powerlifting
 
-<img src="/images/baystate_meet_042_scaled.jpg" class="floatpic">
+<img src="/images/climb.jpg" class="floatpic">
 In my free time I do powerlifting to stay healthy.  While it has been many
 years since I competed, I still frequently train.
 
