@@ -62,5 +62,6 @@ Python, C Language, Matlab, LaTeX.
 
 ## Misc. 
 Master the concepts, principles and methods of information security
+
 Be familiar with cryptography, including encryption algorithms, key protocols,etc.
 
