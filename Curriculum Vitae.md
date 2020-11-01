@@ -61,5 +61,6 @@ Strong reading, writing and speaking competencies for English, Mandarin Chinese.
 Python, C Language, Matlab, LaTeX.
 
 ## Misc. 
-Master the concepts, principles and methods of information securitybe familiar with cryptography, including encryption algorithms, key protocols,etc.
+Master the concepts, principles and methods of information security
+Be familiar with cryptography, including encryption algorithms, key protocols,etc.
 
