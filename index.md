@@ -7,7 +7,7 @@ layout: page
 <img src="/images/index.png" class="floatpic" width="200" height="300">
 My name is Siqi Sun. Currently I am  a doctoral student at the department of computer science in University of Exeter.I received my master degree in information security from China University of Geosciences. Keeping up to date with advances in computing technology has become somewhat of hobby for me. This love for technology, in turn, led to a love for the world of information security. My research interests mainly lie in steganography & steganalysis, trustworthy network, information security, cryptography and other related specialized areas.
 
-My research mainly focuses on how to construct novel CNN architectures and strategies to improve the detection percentages of steganographic images on the last generation algorithms both in spatial and frequency (JPEG) domains. On top of that, steganalysis issues in practical application scenarios is studied and explored to meet the need of detection under complex environment. It is also worth paying attention to whether the field characteristics more suitable for steganalysis can
+My research mainly focuses on how to construct novel CNN architectures and strategies to improve the detection percentages of steganographic images on the latest generation algorithms both in spatial and frequency (JPEG) domains. On top of that, steganalysis issues in practical application scenarios is studied and explored to meet the need of detection under complex environment. It is also worth paying attention to whether the field characteristics more suitable for steganalysis can
 be explored in combination with the research hotspots in the field of deep learning.
 
 
